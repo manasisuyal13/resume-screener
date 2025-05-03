@@ -111,7 +111,3 @@ Top 3 resumes:
 🔗 [GitHub](https://github.com/manasisuyal13) • [LinkedIn](https://www.linkedin.com/in/manasi-suyal-95a64621b/)
 
 ---
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use or adapt it for your own needs.
